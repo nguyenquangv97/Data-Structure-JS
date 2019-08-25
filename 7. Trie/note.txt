@@ -1,0 +1,13 @@
+A Trie is sometimes called a prefix tree.
+A special type of tree that is used to store
+associative data structures.
+
+a trie stores data in steps. Each step is a node
+in a trie.
+
+a use case is check to see if a word is in a dictionary
+
+each step or node represent a letter of a word
+
+each node is like a folder. The key is the name of the folder.
+and the value is the actual content inside that folder
